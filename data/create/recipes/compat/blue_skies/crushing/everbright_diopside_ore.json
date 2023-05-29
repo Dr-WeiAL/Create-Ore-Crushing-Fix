@@ -1,16 +1,16 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "blue_skies"
-		}
-	],
-	"type": "create:crushing",
-	"ingredients": [
-		{
-			"tag": "forge:ores/turquoise_stone/diopside"
-		}
-	],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/turquoise_stone/diopside"
+    }
+  ],
   "results": [
     {
       "item": "blue_skies:diopside_gem"
@@ -27,6 +27,6 @@
       "item": "blue_skies:turquoise_cobblestone",
       "chance": 0.125
     }
-	],
-	"processingTime": 300
+  ],
+  "processingTime": 300
 }

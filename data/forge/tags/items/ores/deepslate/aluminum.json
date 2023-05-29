@@ -4,10 +4,10 @@
     {
       "required": false,
       "id": "immersiveengineering:deepslate_ore_aluminum"
-	},
+    },
     {
       "required": false,
       "id": "alltheores:deepslate_aluminum_ore"
-	}
+    }
   ]
 }

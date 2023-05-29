@@ -4,14 +4,14 @@
     {
       "required": false,
       "id": "thermal:deepslate_tin_ore"
-	},
+    },
     {
       "required": false,
       "id": "mekanism:deepslate_tin_ore"
-	},
+    },
     {
       "required": false,
       "id": "alltheores:deepslate_tin_ore"
-	}
+    }
   ]
 }

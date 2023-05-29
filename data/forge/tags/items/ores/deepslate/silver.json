@@ -4,14 +4,14 @@
     {
       "required": false,
       "id": "thermal:deepslate_silver_ore"
-	},
+    },
     {
       "required": false,
       "id": "immersiveengineering:deepslate_ore_silver"
-	},
+    },
     {
       "required": false,
       "id": "alltheores:deepslate_silver_ore"
-	}
+    }
   ]
 }
