@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "thermal:deepslate_apatite_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_cinnabar_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_niter_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_sulfur_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_tin_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_lead_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_silver_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_nickel_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_ruby_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:deepslate_sapphire_ore"
+    }
+  ]
+}

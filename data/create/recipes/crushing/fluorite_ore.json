@@ -1,0 +1,36 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/stone/fluorite"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:fluorite_gem",
+      "count": 5
+    },
+    {
+      "item": "mekanism:fluorite_gem",
+      "chance": 0.75
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 400,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/stone/fluorite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

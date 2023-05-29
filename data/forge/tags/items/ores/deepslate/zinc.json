@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "create:zinc_ore"
+    },
+    {
+      "required": false,
+      "id": "alltheores:zinc_slate_ore"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "mekanism:deepslate_uranium_ore"
+    },
+    {
+      "required": false,
+      "id": "immersiveengineering:deepslate_ore_uranium"
+    },
+    {
+      "required": false,
+      "id": "alltheores:uranium_slate_ore"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "mekanism:uranium_ore"
+    },
+    {
+      "required": false,
+      "id": "immersiveengineering:ore_uranium"
+    },
+    {
+      "required": false,
+      "id": "alltheores:uranium_ore"
+    }
+  ]
+}

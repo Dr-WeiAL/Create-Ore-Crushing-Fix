@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/lunar_stone/aquite"
+    }
+  ],
+  "results": [
+    {
+      "item": "blue_skies:aquite"
+    },
+    {
+      "item": "blue_skies:aquite",
+      "chance": 0.75
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    },
+    {
+      "item": "blue_skies:lunar_cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 300
+}
