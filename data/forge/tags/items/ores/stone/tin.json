@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "thermal:tin_ore"
+    },
+    {
+      "required": false,
+      "id": "mekanism:tin_ore"
+    },
+    {
+      "required": false,
+      "id": "alltheores:tin_ore"
+    }
+  ]
+}

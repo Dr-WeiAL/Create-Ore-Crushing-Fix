@@ -1,0 +1,35 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		}
+	],
+	"type": "create:crushing",
+	"ingredients": [
+		{
+			"tag": "forge:ores/deepslate/cinnabar"
+		}
+	],
+	"results": [
+		{
+			"item": "thermal:cinnabar",
+			"count": 3
+		},
+		{
+			"item": "thermal:cinnabar",
+			"count": 1,
+			"chance": 0.25
+		},
+		{
+			"item": "create:experience_nugget",
+			"chance": 0.75
+		},
+		{
+			"item": "minecraft:cobbled_deepslate",
+			"count": 1,
+			"chance": 0.125
+		}
+	],
+	"processingTime": 300
+}

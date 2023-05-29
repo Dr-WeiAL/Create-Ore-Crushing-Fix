@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "thermal:deepslate_sapphire_ore"
+	},
+    {
+      "required": false,
+      "id": "alltheores:deepslate_sapphire_ore"
+	}
+  ]
+}

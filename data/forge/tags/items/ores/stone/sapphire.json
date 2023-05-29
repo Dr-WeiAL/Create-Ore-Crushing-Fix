@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "thermal:sapphire_ore"
+    },
+    {
+      "required": false,
+      "id": "alltheores:sapphire_ore"
+    }
+  ]
+}

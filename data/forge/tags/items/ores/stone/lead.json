@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "mekanism:lead_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:lead_ore"
+    },
+    {
+      "required": false,
+      "id": "immersiveengineering:ore_lead"
+    },
+    {
+      "required": false,
+      "id": "alltheores:lead_ore"
+    }
+  ]
+}

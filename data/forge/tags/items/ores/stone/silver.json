@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "thermal:silver_ore"
+    },
+    {
+      "required": false,
+      "id": "immersiveengineering:ore_silver"
+    },
+    {
+      "required": false,
+      "id": "alltheores:silver_ore"
+    }
+  ]
+}

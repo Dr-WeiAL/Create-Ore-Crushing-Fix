@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "alltheores:nether_aluminum_ore"
+    }
+  ]
+}

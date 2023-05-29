@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "thermal:apatite_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:cinnabar_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:niter_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:sulfur_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:tin_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:lead_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:silver_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:nickel_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:ruby_ore"
+    },
+    {
+      "required": false,
+      "id": "thermal:sapphire_ore"
+    }
+  ]
+}
