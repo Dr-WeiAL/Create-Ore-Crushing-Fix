@@ -3,11 +3,11 @@
   "values": [
     {
       "required": false,
-      "id": "create:zinc_ore"
+      "id": "create:deepslate_zinc_ore"
     },
     {
       "required": false,
-      "id": "alltheores:zinc_slate_ore"
+      "id": "alltheores:deepslate_zinc_ore"
     }
   ]
 }
